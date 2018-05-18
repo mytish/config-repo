@@ -1,0 +1,8 @@
+spring:
+  application:
+    name: eurekacl
+env:
+  dev
+girl:
+  name: lili
+  age: 19
